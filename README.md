@@ -1,1 +1,1 @@
-# SSL_Esquiro_NicolasAriel
+este es el repositorio de sintaxis y semantica de los lenguajes 2026
